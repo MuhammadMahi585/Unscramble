@@ -4,6 +4,9 @@ An engaging Android app designed to improve your English vocabulary through fun 
 
 ---
 
+## You can Download an app from link given below:
+https://github.com/MuhammadMahi585/Unscramble/releases/download/v1.0.0/Unscramble.apk
+
 ## 📱 Features
 
 - Interactive vocabulary guessing game
