@@ -27,6 +27,6 @@ An engaging Android app designed to improve your English vocabulary through fun 
 ## 🎯 How to Run
 
 1. Clone the repository:
- git clone : https://github.com/MuhammadMahi585/Unscramble.git
+git clone : https://github.com/MuhammadMahi585/Unscramble.git
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device running Android API 21+.
